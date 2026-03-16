@@ -13,7 +13,7 @@ forward-looking economic exposure.
 
 > "In 12 months (Dec 2026), the average house price in Yorkshire and The Humber 
 > is forecast to be **£220,755**, with a 90% confidence interval of 
-> **£212,726 – £221,408**."
+> **£212,726 - £221,408**."
 
 ![12 Month Forward Forecast](assets/forecast.png)
 
@@ -45,10 +45,10 @@ percentiles, producing a 90% prediction interval around each forecast.
 
 | Horizon | Central Forecast | 90% CI |
 |---------|-----------------|--------|
-| 6 months (Jun 2026) | £213,528 | £208,190 – £216,330 |
-| 12 months (Dec 2026) | £220,755 | £212,726 – £221,408 |
+| 6 months (Jun 2026) | £213,528 | £208,190 - £216,330 |
+| 12 months (Dec 2026) | £220,755 | £212,726 - £221,408 |
 
-**Test set performance (2023–2025):**
+**Test set performance (2023-2025):**
 - MAE: £1,930
 - R²: 0.77
 
