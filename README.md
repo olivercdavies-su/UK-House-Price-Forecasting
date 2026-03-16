@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ```
 
 Download the ONS UK HPI full file from:
-https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindex
+[https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindex](https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-december-2025)
 
 Save it to `data/` and run the notebooks in order.
 
@@ -100,4 +100,4 @@ Save it to `data/` and run the notebooks in order.
 ## Data Source
 
 Office for National Statistics — UK House Price Index  
-https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindex
+[https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindex](https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-december-2025)
