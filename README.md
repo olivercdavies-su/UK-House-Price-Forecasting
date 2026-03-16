@@ -1,4 +1,4 @@
-# UK House Price Forecasting — Yorkshire and The Humber
+# UK House Price Forecasting - Yorkshire and The Humber
 
 A time series forecasting project using ONS UK House Price Index data to predict 
 regional house prices 6 and 12 months ahead, with uncertainty quantification via 
